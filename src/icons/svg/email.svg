@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>切片</title>
+    <g id="项目端-工作台" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="个人中心" transform="translate(-1249.000000, -20.000000)" fill="#262626" fill-rule="nonzero">
+            <g id="编组-11" transform="translate(1209.000000, 16.000000)">
+                <g id="编组-7" transform="translate(40.000000, 3.000000)">
+                    <g id="03-图标库/01基础图标/消息" transform="translate(0.000000, 1.000000)">
+                        <g id="编组-2" transform="translate(3.000000, 6.000000)">
+                            <path d="M18,0 L18,13.5 L0,13.5 L0,0 L18,0 Z M16.7142857,1.22727273 L1.28571429,1.22727273 L1.28571429,12.2727273 L16.7142857,12.2727273 L16.7142857,1.22727273 Z" id="矩形"></path>
+                            <polygon id="路径-36" points="16.9912222 0.109109337 17.7230636 1.11816339 9 6.88270539 0.276936442 1.11816339 1.00877784 0.109109337 9 5.38895455"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

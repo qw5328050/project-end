@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>切片</title>
+    <g id="企业端-工作台" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="个人中心" transform="translate(-670.000000, -262.000000)">
+            <g id="编组-4" transform="translate(224.000000, 134.000000)">
+                <g id="编组-2" transform="translate(144.000000, 94.000000)">
+                    <g id="图标库/个人中心/岗位" transform="translate(302.000000, 34.000000)">
+                        <g id="邮箱" transform="translate(1.000000, 3.000000)" fill="#5A5A5A" fill-rule="nonzero">
+                            <path d="M11.5178438,1.125 L2.47034375,1.125 L6.99409375,5.8103125 L11.5178438,1.125 Z M1.125,1.17129687 L1.125,9.875 L12.875,9.875 L12.875,1.1590625 L7.35379688,6.87745312 C7.34973434,6.88166079 7.34559829,6.88579684 7.34139063,6.88985937 C7.14273437,7.08165625 6.82620313,7.07610937 6.63439063,6.87745312 L1.125,1.17129687 Z M0.5,0 L13.5,0 C13.7761406,0 14,0.223859375 14,0.5 L14,10.5 C14,10.7761406 13.7761406,11 13.5,11 L0.5,11 C0.223859375,11 0,10.7761406 0,10.5 L0,0.5 C0,0.223859375 0.223859375,0 0.5,0 Z" id="形状"></path>
+                        </g>
+                        <rect id="矩形" stroke="#5A5A5A" transform="translate(4.500000, 10.500000) rotate(45.000000) translate(-4.500000, -10.500000) " x="4.5" y="7.5" width="1" height="6"></rect>
+                        <rect id="矩形备份" stroke="#5A5A5A" transform="translate(11.500000, 10.500000) scale(-1, 1) rotate(45.000000) translate(-11.500000, -10.500000) " x="11.5" y="7.5" width="1" height="6"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

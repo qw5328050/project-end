@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>切片</title>
+    <g id="项目端-工作台" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="个人中心" transform="translate(-1209.000000, -20.000000)" fill="#595959" fill-rule="nonzero">
+            <g id="编组-11" transform="translate(1209.000000, 16.000000)">
+                <g id="03-图标库/01基础图标/设置备份" transform="translate(0.000000, 4.000000)">
+                    <g id="编组" transform="translate(3.000000, 4.500000)">
+                        <polygon id="路径-71" points="18 1.5 18 3 0 3 0 1.5"></polygon>
+                        <polygon id="路径-71备份" points="18 7.5 18 9 0 9 0 7.5"></polygon>
+                        <polygon id="路径-71备份-2" points="18 13.5 18 15 0 15 0 13.5"></polygon>
+                        <polygon id="路径-72" points="9 0 9 4.5 7.5 4.5 7.5 0"></polygon>
+                        <polygon id="路径-72备份" points="13.5 6 13.5 10.5 12 10.5 12 6"></polygon>
+                        <polygon id="路径-72备份-2" points="4.5 12 4.5 16.5 3 16.5 3 12"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

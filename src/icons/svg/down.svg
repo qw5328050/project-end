@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>切片</title>
+    <g id="Web端-UI公共控件规范" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="12公共页面" transform="translate(-1500.000000, -346.000000)" fill="#595959">
+            <g id="编组-2" transform="translate(100.000000, 326.000000)">
+                <g id="编组-11" transform="translate(1214.000000, 16.000000)">
+                    <g id="编组-6备份" transform="translate(80.000000, 0.000000)">
+                        <g id="03-图标库/01基础图标/设置备份-3" transform="translate(118.000000, 16.000000) scale(-1, 1) translate(-118.000000, -16.000000) translate(106.000000, 4.000000)">
+                            <polygon id="路径" transform="translate(11.477476, 11.394291) scale(1, -1) rotate(90.000000) translate(-11.477476, -11.394291) " points="15.4549513 5.56066017 9.62132034 11.3942911 15.4549513 17.2279221 14.3942911 18.2885822 7.5 11.3942911 14.3942911 4.5"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

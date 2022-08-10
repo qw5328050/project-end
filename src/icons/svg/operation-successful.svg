@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="72px" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>切片</title>
+    <g id="业务中心-物资管理" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="业务中心-需用计划管理-（新增）第三步状态" transform="translate(-788.000000, -290.000000)">
+            <g id="成功-icon" transform="translate(788.000000, 290.000000)">
+                <circle id="椭圆形" fill="#00CC33" opacity="0.2" cx="36" cy="36" r="32"></circle>
+                <circle id="椭圆形" fill="#00CC33" cx="36" cy="36" r="27"></circle>
+                <path d="M24.8240741,36.7450419 L32.6839405,44.2204627 C32.9503332,44.4738255 33.3715515,44.4637125 33.6254784,44.1978576 L48.3240741,28.8088023 L48.3240741,28.8088023" id="路径-8" stroke="#FFFFFF" stroke-width="3" stroke-linecap="square"></path>
+            </g>
+        </g>
+    </g>
+</svg>

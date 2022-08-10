@@ -1,0 +1,63 @@
+variables:
+  SERVICE_NAME: project-end
+  SERVICE_PORT: 9001
+
+deploy_dev:
+  stage: deploy
+  tags:
+    - frontend-dev-runner
+  script:
+    - npm install
+    - npm run build:dev
+    - docker stop $SERVICE_NAME || true
+    - docker rm $SERVICE_NAME || true
+    - docker rmi $SERVICE_NAME:latest || true
+    - docker build . -t $SERVICE_NAME:latest
+    - docker run -p $SERVICE_PORT:$SERVICE_PORT -e TZ="Asia/Shanghai" -d --restart=always --privileged=true --name $SERVICE_NAME $SERVICE_NAME:latest
+  only:
+    - dev
+
+deploy_test:
+  stage: deploy
+  tags:
+    - frontend-test-runner
+  script:
+    - npm install
+    - npm run build:stage
+    - docker stop $SERVICE_NAME || true
+    - docker rm $SERVICE_NAME || true
+    - docker rmi $SERVICE_NAME:latest || true
+    - docker build . -t $SERVICE_NAME:latest
+    - docker run -p $SERVICE_PORT:$SERVICE_PORT -e TZ="Asia/Shanghai" -d --restart=always --privileged=true --name $SERVICE_NAME $SERVICE_NAME:latest
+  only:
+    - test
+
+deploy_uat:
+  stage: deploy
+  tags:
+    - frontend-uat-runner
+  script:
+    - npm install
+    - npm run build:uat
+    - docker stop $SERVICE_NAME || true
+    - docker rm $SERVICE_NAME || true
+    - docker rmi $SERVICE_NAME:latest || true
+    - docker build . -t $SERVICE_NAME:latest
+    - docker run -p $SERVICE_PORT:$SERVICE_PORT -e TZ="Asia/Shanghai" -d --restart=always --privileged=true --name $SERVICE_NAME $SERVICE_NAME:latest
+  only:
+    - uat
+deploy_prod:
+  stage: deploy
+  tags:
+    - frontend-prod-runner
+  script:
+    - npm install
+    - npm run build:prod
+    - docker stop $SERVICE_NAME || true
+    - docker rm $SERVICE_NAME || true
+    - docker rmi $SERVICE_NAME:latest || true
+    - docker build . -t $SERVICE_NAME:latest
+    - docker run -p $SERVICE_PORT:$SERVICE_PORT -e TZ="Asia/Shanghai" -d --restart=always --privileged=true --name $SERVICE_NAME $SERVICE_NAME:latest
+  only:
+    - master
+

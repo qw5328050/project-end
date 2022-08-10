@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>切片</title>
+    <g id="企业端-主数据" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="打印模板" transform="translate(-64.000000, -24.000000)">
+            <g id="04-图标库/06-基础图标/打印" transform="translate(64.000000, 24.000000)">
+                <rect id="矩形" fill-opacity="0.3" fill="#00CC33" x="8" y="22" width="16" height="8"></rect>
+                <rect id="矩形备份-2" fill-opacity="0.3" fill="#00CC33" x="8" y="2" width="16" height="8"></rect>
+                <path d="M30,12 L30,26 L26,26 L26,20 L6,20 L6,26 L2,26 L2,12 L30,12 Z M10,14 L4,14 L4,18 L10,18 L10,14 Z" id="形状结合" fill="#1791FF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

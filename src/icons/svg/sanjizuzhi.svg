@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>切片</title>
+    <g id="企业端-系统管理" stroke="none" stroke-width="1" fill-rule="evenodd">
+        <g id="系统管理-组织管理" transform="translate(-320.000000, -436.000000)" fill-rule="nonzero">
+            <g id="05-基础组件/表格文字/文字备份-3" transform="translate(320.000000, 433.000000)">
+                <g id="03-图标库/01基础图标/向右" transform="translate(0.000000, 3.000000)">
+                    <g id="编组" transform="translate(3.000000, 2.000000)">
+                        <path d="M6,0 L10,4 L10,12 L0,12 L0,0 L6,0 Z M5.585,1 L1,1 L1,11 L9,11 L9,4.415 L5.585,1 Z" id="矩形"></path>
+                        <path d="M6,0 L10,4 L10,5 L5,5 L5,0 L6,0 Z M6,1.415 L6,4 L8.585,4 L6,1.415 Z" id="矩形"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
